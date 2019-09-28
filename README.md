@@ -16,7 +16,7 @@ Once Node.js is installed, install these packages:
 
 ```
 
-npm i @nestjs/common @nestjs/core @nestjs/microservices @nestjs/websockets rxjs typescript reflect-metadata body-parser express-jwt jwks-rsa @types/express-jwt
+npm i @nestjs/common @nestjs/core @nestjs/microservices @nestjs/websockets rxjs typescript reflect-metadata body-parser express-jwt jwks-rsa jwks-rsa@1.2.1 @types/express-jwt
 npm i -D @types/node ts-node
 ```
 
